@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 *.pyc
+dist/
+build/
+*.spec
+admin_manifest.xml
